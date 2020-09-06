@@ -1,0 +1,68 @@
+
+
+
+body {
+    background-image: url(https://img.pngio.com/download-clear-snow-png-images-background-toppng-clear-png-background-840_859.png);
+    margin: 0;
+  }
+  
+  /* Logo */
+  .box {
+    font-family: 'Times New Roman', Times, serif;
+    background-color : rgba(206, 202, 189, 0.952);
+    color: Black; 
+    text-align: center;
+    font-size: 10px;
+    padding: 1px;
+    margin: 1px;
+  }
+  
+  .round {
+    border-radius: 40px;
+  }
+  
+  
+  /* main/article */
+  .wrapper{
+    width: 500px;
+    margin: auto;
+    font-family: 'Courier New', Courier, monospace
+  }
+  
+  img {
+    width: 40%;
+    border-color: brown;
+  }
+  
+  .img-container{
+    text-align: center;
+  }
+  
+  p {
+    font-size: 17px;
+  }
+  
+  h2 {
+    text-align: center;
+    color: brown
+  }
+  
+  /* footer */
+  .rectangle {
+    font-family: 'Times New Roman', Times, serif;
+    background-color : black;
+    color: white; 
+    text-align: center;
+    font-size: 10px;
+    padding: 1px;
+    margin: 1px;
+    height: 45px;
+  }
+  
+  
+  
+  /* link interaction */
+  a:link  {color: blue;}
+  a:visited {color: rgb(59, 95, 255)};
+  a:hover {color:green;}
+  a:active {color: red;}
