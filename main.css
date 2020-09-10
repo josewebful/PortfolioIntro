@@ -46,6 +46,12 @@ body {
     text-align: center;
     color: brown
   }
+
+  h3 {
+    text-align: center;
+    color: brown;
+    text-decoration:underline;
+  }
   
   /* footer */
   .rectangle {
